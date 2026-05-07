@@ -16,3 +16,12 @@ div.container-fluid.mt-3{
 body{
 	font-family: "Open Sans", sans-serif !important;
 }
+div.Credit{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+div.Credit img {
+	margin: 5px;
+}
